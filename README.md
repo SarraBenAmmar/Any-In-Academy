@@ -1,6 +1,6 @@
-# Online Learning Management System (eLearning Platform with Laravel)
+# Online Learning Management System (Any-In-It Platform with Laravel)
 
-![Project Banner](link-to-banner-image)
+
 
 ## Introduction
 
@@ -25,30 +25,3 @@ The Online Learning Management System is an eLearning platform built using Larav
 - **Database:** MySQL
 - **Frontend:** HTML, CSS, jQuery, etc.
 
-## Demo Credentials
-
-- **SuperAdmin:** 
-  - Email: admin@gmail.com
-  - Password: 123
-- **Instructor:** 
-  - Email: fuad@gmail.com
-  - Password: 123
-
-## Getting Started
-
-To get started with the project, follow these steps:
-
-1. Clone the repository.
-2. Install dependencies using `composer install`.
-3. Configure the database settings in the `.env` file.
-4. Start the development server with `php artisan serve`.
-
-## Contributing
-
-Contributions are welcome! Please follow the contribution guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-"# Any-In-It" 
-"# Any-In-Academy" 
